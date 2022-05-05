@@ -11,7 +11,7 @@ This repository consists of files required for end to end implementation and dep
   * [Demo](#demo)
   * [Overview](#overview)
   * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
+  * [Deployment on Heroku](#deployment-on-heroku)
   * [Technologies Used](#technologies-used)
   * [Directory Tree](#directory-tree)
   * [Bug / Feature Request](#bug---feature-request)
