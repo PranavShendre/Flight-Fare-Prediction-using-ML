@@ -51,6 +51,7 @@ The next step would be to follow the instruction given in the [Heroku Documentat
 
 ## Directory Tree
 
+```
 ├── static 
 │   ├── css
 ├── template
@@ -61,8 +62,7 @@ The next step would be to follow the instruction given in the [Heroku Documentat
 ├── flight_price.ipynb
 ├── flight_rf.pkl
 ├── requirements.txt
-
-
+```
 ## Bug / Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/PranavShendre/Flight-Fare-Prediction-using-ML/issues) here by including your search query and the expected result
